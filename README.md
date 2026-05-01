@@ -30,7 +30,7 @@ El sistema debe permitir saber qué asuntos tiene cada cliente, en qué estado s
 
 ---
 
-## Modelo conceptual — Entidades y atributos
+## Modelo conceptual — Entidades y atributos    
 
 ### CLIENTE
 Representa a una persona física que contrata los servicios de la firma.
